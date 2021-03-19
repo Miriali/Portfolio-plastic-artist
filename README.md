@@ -3,6 +3,8 @@ Hello cute github community! :octocat:
 
 In this repository you can find the code of the portfolio website of a plastic artist, the layout design and development followed the principles of Responsive web design.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/86e9d89d-f13c-4221-a493-e55b8914bb17/deploy-status)](https://dominicapruzzese.netlify.app/)
+
 ### Requirements
 
 Basic knowledge of:
